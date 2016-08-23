@@ -3,7 +3,7 @@ language: ruby
 rvm:
   - 2.3.1
 
-before_script: cd project
+before_script: cd blog
 
 script: 
   - rails test
