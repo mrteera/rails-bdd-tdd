@@ -3,7 +3,9 @@ language: ruby
 rvm:
   - 2.3.1
 
-before_script: cd blog
+before_script:
+  - cd blog
+  - bundle install --jobs=3 --retry=3
 
 script: 
   - rails test
