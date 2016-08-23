@@ -1,6 +1,6 @@
 # README
 
-![alt text](https://travis-ci.org/mrteera/rails-bdd-tdd.svg?branch=master "Travis CI")
+[![Build Status](https://travis-ci.org/mrteera/rails-bdd-tdd.svg?branch=master)](https://travis-ci.org/mrteera/rails-bdd-tdd)
 
 
 This README would normally document whatever steps are necessary to get the
