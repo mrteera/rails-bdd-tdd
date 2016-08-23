@@ -1,0 +1,7 @@
+[run]
+omit =
+    app/channels/application_cable/channel.rb
+    app/channels/application_cable/connection.rb
+    app/mailers/application_mailer.rb
+    app/jobs/application_job.rb
+    app/models/application_record.rb
