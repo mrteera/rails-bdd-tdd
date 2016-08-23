@@ -1,6 +1,7 @@
 # README
 
 [![Build Status](https://travis-ci.org/mrteera/rails-bdd-tdd.svg?branch=master)](https://travis-ci.org/mrteera/rails-bdd-tdd)
+[![Coverage Status](https://coveralls.io/repos/github/mrteera/rails-bdd-tdd/badge.svg?branch=master)](https://coveralls.io/github/mrteera/rails-bdd-tdd?branch=master)
 
 
 This README would normally document whatever steps are necessary to get the
