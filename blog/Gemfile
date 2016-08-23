@@ -53,4 +53,5 @@ group :test, :development do
   gem 'database_cleaner'
   gem 'rspec'
   gem 'coveralls', require: false
+  gem 'simplecov', require: false
 end
