@@ -10,6 +10,3 @@ before_script:
 script: 
   - rails test
   - rails cucumber
-
-after_success:
-  - coveralls --exclude app/channels/application_cable/ --exclude app/mailers/ --exclude app/models/application_record.rb --gcov-options '\-lp'
